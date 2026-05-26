@@ -1,7 +1,7 @@
 # Brayton Cycle Analyzer
 
-A first-principles thermodynamic analysis tool for simple-cycle stationary
-gas turbines, built in Python with real-fluid properties from CoolProp.
+A Python tool for thermodynamic analysis of simple-cycle stationary
+gas turbines, using real-fluid properties from CoolProp.
 
 ## What it does
 
